@@ -1,0 +1,54 @@
+body{
+
+  font-family: 'Merriweather', serif;
+}
+
+h1{
+  width:30%;
+  margin:0 auto;
+   font-family: 'Sacramento', cursive;
+
+}
+.contact-me{
+  text-align: ;
+  background-color: #C0EEF2
+}
+.bottom-container{
+   text-align: center;
+    background-color: #C0EEF2
+}
+nav {
+  background-color:black ;
+  height: 50px;
+  width: 100%;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: left;
+  height: 100%;
+}
+
+li {
+  height: 100%;
+}
+
+a {
+  display: block;
+  padding: 0 1em;
+  height: 100%;
+  line-height: 50px;
+  color: #fff;
+  text-decoration: none;
+  font-size: 1.2em;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+a:hover {
+  background-color: #444;
+}
